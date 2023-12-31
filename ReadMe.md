@@ -44,3 +44,12 @@ React Navigation Examples - https://react-navigation-example.netlify.app/
 
 React Navgation bottom tabs 
 npm install @react-navigation/bottom-tabs
+
+https://reactnavigation.org/docs/bottom-tab-navigator
+
+configuring the header bar
+https://reactnavigation.org/docs/headers
+
+Weather Conditions
+
+https://openweathermap.org/weather-conditions

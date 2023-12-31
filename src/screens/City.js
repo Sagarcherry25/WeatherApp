@@ -61,7 +61,6 @@ const City = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    marginTop: StatusBar.currentHeight
   },
   imageLayout: {
     flex: 1
